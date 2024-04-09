@@ -1,0 +1,9 @@
+file_type: csv
+dataset_name: en-fr
+file_name: en-fr
+table_name: edsurv
+inbound_delimiter: ","
+outbound_delimiter: "|"
+skip_leading_rows: 1
+columns: 
+    - changing_lives_changing_society_how_it_works_technology_drives_change_home_concepts_teachers_search_overview_credits_hhcc_web_reference_feedback_virtual_museum_of_canada_home_page
